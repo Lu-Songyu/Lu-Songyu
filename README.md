@@ -22,5 +22,3 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lu-Songyu&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lu-Songyu)  
-
