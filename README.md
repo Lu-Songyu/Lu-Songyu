@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Songyu Lu:earth_africa:
-#### Computer Engineering student at UC-San Diego:european_post_office:
-
+## Hi there 👋, my name is Songyu Lu:earth_africa:
+#### :man_student:Computer Engineering student at UC-San Diego
+#### :man_technologist:Co-founder at Proko Tech LLC
+#### :man_in_tuxedo:Vice President at ECE Undergrad Student Council
+<br>
 Skills: 
 
 - Software: C/C++/Python/Java/MATLAB/JavaScript/CSS/HTML
