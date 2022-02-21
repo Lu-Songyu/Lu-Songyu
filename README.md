@@ -1,17 +1,17 @@
 ## Hi there 👋, my name is Songyu Lu:earth_africa:
 #### :man_student:Computer Engineering student at UC-San Diego
 #### :man_technologist:Co-founder at Proko Tech LLC
-#### :man_in_tuxedo:Vice President at ECE Undergrad Student Council
+#### :man_in_tuxedo:Currently working as 5G wireless intern at SGS in San Diego branch, incoming Amazon intern for summer 2022
 <br>
 Skills: 
 
-- Software: C/C++/Python/Java/MATLAB/JavaScript/CSS/HTML
-- Hardware: Logic Circuit Design, LTI System, Analog System 
+- Software: C++/Python/Java/MATLAB/Go
+- Hardware: Logic Circuit Design, LTI System, Analog System, Digital Signal Processing, NR/LTE Communication
 
 <br>
 
-- 🔭 I’m currently working on Proko Park Tech 
-- 🌱 I’m currently learning FrontEnd and Data Analysis 
+- 🔭 Learning Golang and I love it 
+- 🌱 San Diego based
 - ⚡ Fun fact: I cannot pronounce "vanilla" correctly  
 
 <h3>You can find me here:<h3>
