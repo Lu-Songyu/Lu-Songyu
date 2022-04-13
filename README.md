@@ -10,7 +10,7 @@ Skills:
 
 <br>
 
-- 🔭 Learning Golang and I love it 
+- 🔭 Learning Eletronics and Firmware Binary tech... loving it so far
 - 🌱 San Diego based
 - ⚡ Fun fact: I cannot pronounce "vanilla" correctly  
 
