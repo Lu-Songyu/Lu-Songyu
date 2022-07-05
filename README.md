@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Songyu Lu:earth_africa:
 #### :man_student:Computer Engineering student at UC-San Diego
 #### :man_technologist:Co-founder at Proko Tech LLC
-#### :man_in_tuxedo:Currently working as 5G wireless intern at SGS in San Diego branch, incoming Amazon intern for summer 2022
+#### :man_in_tuxedo: Amazon/SGS intern, work includes software and RF verification. 
 <br>
 Skills: 
 
