@@ -14,9 +14,11 @@ I am a recent graduate computer engineering student from UC San Diego. I am curr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 
-<h3>You can find me here:<h3>
+<h3 align="center">You can find me here:<h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lu-Songyu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/songyu-lu-b6803b198/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lu_songyu/)  
+<p align="center">
+<a href="https://www.linkedin.com/in/songyu-lu/">
+ <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lu-Songyu&show_icons=true&count_private=true)  
-
+</p>
