@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Songyu Lu :earth_africa:
 
-I am a recent graduate computer engineering student from UC San Diego. I am currently planning to join Amazon in Seattle next Spring(shot me a DM if you want to connect), and I am always exploring opportunities to work on cool software/firmware projects, especially in the infrastructure and tooling area. I have 2 year expierience in R&D and industry, and am super passionate about technology involving wirless technology, embedded system, and RF devices. 
+I am a recent graduate computer engineering student from UC San Diego. I am currently looking for software enginner opportunities for next Spring(shot me a DM if you want to connect), and I am always exploring opportunities to work on cool software/firmware projects, especially in the infrastructure and tooling area. I have 2 year expierience in R&D and industry, and am super passionate about technology involving wirless technology, embedded system, and RF devices. 
 
 <p align="center">
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
